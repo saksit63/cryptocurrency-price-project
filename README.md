@@ -6,7 +6,7 @@
 ## Source code
 Python file (Producer): [producer.py](https://github.com/saksit63/cryptocurrency-web-scrapping/blob/main/producer.py)
 
-Python file (Cunsumer): [producer.py](https://github.com/saksit63/cryptocurrency-web-scrapping/blob/main/consumer.py)
+Python file (Cunsumer): [consumer.py](https://github.com/saksit63/cryptocurrency-web-scrapping/blob/main/consumer.py)
 
 All files: [Cryptocurrency Price Web Scraping and Real-time Streaming](https://github.com/saksit63/cryptocurrency-web-scrapping)
 
